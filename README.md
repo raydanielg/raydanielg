@@ -1,40 +1,41 @@
-# 🚀 Ezra Daniel Gyunda  
-### Software Developer | Cyber Security Specialist | AI & Automation  
+# 👨💻 **Ezra Daniel Gyunda**  
+### `Security Engineer` | `Full-Stack Developer` | `AI/ML Practitioner`
 
-🔐 **Security Focus:** Ethical Hacking | Secure Architecture | DevSecOps  
-💻 **Code Craft:** Python | JavaScript | Rust | Cloud Automation  
-🤖 **AI/ML:** TensorFlow | NLP | Computer Vision  
-
----
-
-### 🛠️ Tech Stack  
-#### Languages:  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-
-#### Security Tools:  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-FF0000?logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
-
-#### Cloud & DevOps:  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&width=435&lines=Security+by+Design%2C+Code+by+Passion;Turning+Vulnerabilities+into+Strengths;Building+Resilient+Systems" alt="Typing Animation" />
+</p>
 
 ---
 
-### 📈 GitHub Stats  
-[![Ezra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername)  
+## 🔥 **My Tech Stack**
 
----
+### **Security Tools**
+```diff
++ Kali Linux | Metasploit | Burp Suite | Wireshark | John the Ripper
++ OWASP ZAP | Nmap | Ghidra | SELinux | Hashcat
+Development
+diff
+# Languages
++ Python | JavaScript/TypeScript | Rust | Go | Java
+# Frameworks
++ Django | React | Node.js | FastAPI | Spring Boot
+Cloud & DevOps
+diff
+! AWS | Docker | Kubernetes | Terraform | Ansible
+! CI/CD Pipelines | Serverless Architecture
+📈 GitHub Analytics
+<div align="center">
+Your GitHub Stats
+Top Languages
 
-### 🌐 Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ezra_Daniel-0077B5?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?logo=gmail)](mailto:your.email@example.com)
+</div><div align="center">
+GitHub Streak
 
-⭐ *"Building resilient systems, one line at a time."*  
+</div>
+👀 Profile Views Counter
+Profile Views
+
+🎮 Developer Animation
+<p align="center"> <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" /> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/yourhandle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> ```
