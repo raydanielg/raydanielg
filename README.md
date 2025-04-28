@@ -1,7 +1,7 @@
 # 👨💻 **Ezra Daniel Gyunda**  
 ### `Security Engineer` | `Full-Stack Developer` | `AI/ML Practitioner`
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&width=435&lines=Security+by+Design%2C+Code+by+Passion;Turning+Vulnerabilities+into+Strengths;Building+Resilient+Systems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=22D3F7&width=435&height=30&lines=Security+by+Design%2C+Code+by+Passion;Turning+Vulnerabilities+into+Strengths;Building+Resilient+Systems;From+Zero+Day+to+Secure+Code;Red+Team+Mindset%2C+Blue+Team+Execution;Encrypting+Tomorrow's+Solutions+Today;Secure+Code+is+Non-Negotiable;DevSecOps+is+the+New+Normal;Ethical+Hacking+%2B+Clean+Code+%3D+%E2%9C%85;Security+is+a+Process%2C+Not+a+Product" alt="Typing Animation" />
 </p>
 
 <br clear="both">
