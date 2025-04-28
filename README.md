@@ -1,12 +1,8 @@
 <h1 align="left">Hello , I'm Ezra Daniel Gyunda</h1>
-###
-###
-<br/>
+##
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=22D3F7&width=435&height=30&lines=Securing+Innovation+at+Every+Line+of+Code;Engineering+Strength+from+Vulnerabilities;Crafting+Resilient+Architectures;Transforming+Zero-Day+Threats+into+Zero-Trust+Solutions;Thinking+Red%2C+Executing+Blue;Future-Proofing+Technology+Through+Encryption;Security+is+Built-In%2C+Not+Bolted-On;DevSecOps%3A+Security+by+Default;Ethical+Hacking+Meets+Flawless+Code;Security+is+a+Journey%2C+Not+a+Destination" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=22D3F7&width=700&height=50&lines=Built+for+Security%2C+Fueled+by+Passion;Zero-Day+Ready%2C+Always;Encrypting+the+Future;Think+Red%2C+Act+Blue;Resilient+Code%2C+Unbreakable+Systems;From+Bugs+to+Breakthroughs;Secure+by+Default%2C+Smart+by+Design;Clean+Code%2C+Clean+Defense;Hardened+Systems%2C+Fearless+Innovation;Security+is+Continuous+Evolution" alt="Typing Animation" />
 </p>
-
-
 ##
 ## 🛠️ **My Tech View**
 
