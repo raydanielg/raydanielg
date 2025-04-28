@@ -1,9 +1,4 @@
 <h1 align="left">Hello , I'm Ezra Daniel Gyunda</h1>
-
-###
-
-<p align="left">🔐 Security Engineer | 🚀 Full-Stack Developer | 🤖 AI/ML Enthusiast</p>
-
 ###
 ###
 <br/>
