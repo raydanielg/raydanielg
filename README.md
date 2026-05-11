@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Ezra Daniel Gyunda</h1>
 
 <p align="center">
